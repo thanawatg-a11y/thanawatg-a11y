@@ -1,14 +1,13 @@
 <!-- 1. รูปแบนเนอร์บนสุด -->
 <div align="center">
-  <img src="banner.jpg" width="100%" alt="Banner" />
+  <img src="banner.jpg" width="100%" alt="Chill Adventure Time Pixel Art | Finn, Jake & BMO Relaxing
+.png" />
 </div>
 
 <br/>
 
-<!-- 2. ส่วนแนะนำตัว (ซ้ายข้อความ / ขวารูปต้นไม้) -->
-<img align="right" width="230" src="tree.png" alt="Pixel Tree" />
 
-### 🌿 เกี่ยวกับผม (About Me)
+### 🌿 Hi 
 
 สวัสดีครับ ผม **ธนวัต กิจเดช (Thanawat Kicdech)** นิสิตสาขาเทคโนโลยีสารสนเทศ และ **Full-Stack Developer** ที่มีความหลงใหลในการออกแบบและพัฒนาเว็บแอปพลิเคชันแบบครบวงจร ตั้งแต่ส่วนติดต่อผู้ใช้ไปจนถึงระบบหลังบ้านและการจัดการฐานข้อมูล
 
