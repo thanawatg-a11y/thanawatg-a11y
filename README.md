@@ -1,25 +1,21 @@
-<!-- แบนเนอร์หัวโปรไฟล์: โทนขาว-เทาอ่อน สะอาดตา พร้อมลูกเล่นแสงระยิบระยับ -->
+<!-- 1. รูปแบนเนอร์บนสุด (Adventure Time Pixel Art) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8fafc,50:e2e8f0,100:cbd5e1&height=220&section=header&text=Hello,%20I'm%20Thanawat&fontColor=0f172a&fontSize=40&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Information%20Technology&descAlignY=58&descSize=17" width="100%" />
+  <img src="banner.jpg" width="100%" alt="Banner" />
 </div>
 
-<!-- ข้อความทักทายพิมพ์อัตโนมัติ (โทนสีน้ำเงินเข้มบนพื้นขาว) -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=21&pause=1000&color=0284C7&center=true&vCenter=true&width=650&lines=%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B5%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%9A+%E0%B8%9C%E0%B8%A1+%E0%B8%98%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%95+%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B9%80%E0%B8%94%E0%B8%8A+%F0%9F%91%8B;Full-Stack+Developer+%26+IT+Undergraduate+%F0%9F%92%BB;%E0%B8%A1%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%99%E0%B9%89%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A1%E0%B8%B5%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%9E+%E2%9C%A8" alt="Typing SVG" />
-  </a>
-</div>
+<br/>
 
----
 
-### 👨‍💻 เกี่ยวกับผม (About Me)
+### 🌿 Hi 
 
-สวัสดีครับ ผม **ธนวัต กิจเดช (Thanawat Kicdech)** นิสิตสาขาเทคโนโลยีสารสนเทศ และ **Full-Stack Developer** ที่มีความหลงใหลในการออกแบบและพัฒนาเว็บแอปพลิเคชันแบบครบวงจร ตั้งแต่ส่วนติดต่อผู้ใช้ไปจนถึงระบบหลังบ้านและการจัดการฐานข้อมูล
+สวัสดีครับ ผม ธนวัต กิจเดช (Thanawat Kicdech) นิสิตสาขาเทคโนโลยีสารสนเทศ และ **Full-Stack Developer** ที่มีความหลงใหลในการออกแบบและพัฒนาเว็บแอปพลิเคชันแบบครบวงจร ตั้งแต่ส่วนติดต่อผู้ใช้ไปจนถึงระบบหลังบ้านและการจัดการฐานข้อมูล[cite: 1]
 
-- 🚀 **Current Focus:** กำลังออกแบบและพัฒนาซอฟต์แวร์โปรเจกต์ใหม่เพื่อยกระดับการทำงาน[cite: 1]
-- 🎓 **Education:** กำลังศึกษาต่อระดับปริญญาตรี สาขาเทคโนโลยีสารสนเทศ (Information Technology)[cite: 1]
+- 🌱 **Current Focus:** กำลังออกแบบและพัฒนาซอฟต์แวร์โปรเจกต์ใหม่เพื่อยกระดับการทำงาน[cite: 1]
+- 🎓 **Education:** กำลังศึกษาต่อระดับปริญญาตรี สาขาเทคโนโลยีสารสนเทศ (Information Technology)[cite: 1]                 <img align="right" width="230" src="tree.png" alt="Pixel Tree" />
 - 💡 **Expertise & Interest:** การพัฒนาระบบเว็บ (Full-Stack Web Development) และการออกแบบระบบจัดการภายในองค์กร[cite: 1]
 - 📫 **Get in Touch:** [Thanawa.g@ku.th](mailto:Thanawa.g@ku.th)[cite: 1]
+
+<br clear="right"/>
 
 ---
 
@@ -47,6 +43,6 @@
 ### 📊 สถิติบน GitHub (GitHub Analytics)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thanawatg-a11y&show_icons=true&theme=default&include_all_commits=true&count_private=true&title_color=0284C7&icon_color=0284C7"/>[cite: 4]
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanawatg-a11y&layout=compact&langs_count=6&theme=default&title_color=0284C7"/>[cite: 4]
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thanawatg-a11y&show_icons=true&theme=default&include_all_commits=true&count_private=true&title_color=15803D&icon_color=16A34A"/>[cite: 4]
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanawatg-a11y&layout=compact&langs_count=6&theme=default&title_color=15803D"/>[cite: 4]
 </div>
