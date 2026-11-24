@@ -1,11 +1,13 @@
 <!-- 1. รูปแบนเนอร์บนสุด -->
+<!-- บรรทัดที่ 3: ใส่ชื่อไฟล์รูปแบนเนอร์ -->
 <div align="center">
-  <img src="banner.jpg" width="100%" alt="Chill Adventure Time Pixel Art | Finn, Jake & BMO Relaxing
-.png" />
+  <img src="Chill Adventure Time Pixel Art _ Finn, Jake & BMO Relaxing.jpg" width="100%" alt="Banner" />
 </div>
 
 <br/>
 
+<!-- บรรทัดที่ 9: ใส่ชื่อไฟล์รูปต้นไม้ -->
+<img align="right" width="230" src="pixelado imagen de un verde árbol_.jpg" alt="Pixel Tree" />
 
 ### 🌿 Hi 
 
