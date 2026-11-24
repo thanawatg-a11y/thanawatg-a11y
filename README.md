@@ -1,10 +1,25 @@
+<!-- แบนเนอร์หัวโปรไฟล์: พื้นหลังโทนมืดพร้อมหิมะตกและข้อความทักทาย -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=Welcome%20to%20My%20GitHub&fontColor=f8fafc&fontSize=38&fontAlignY=38&animation=twinkling&desc=Thanawat%20Kicdech%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%" />
+</div>
 
-# สวัสดีครับ ผม นายธนวัต กิจเดข เป็น Full-Stack Developer ที่สนใจด้าน การพัฒนา
+<!-- ข้อความทักทายแบบพิมพ์ทีละตัวอักษร (Typing Effect) -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B5%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%9A+%E0%B8%9C%E0%B8%A1+%E0%B8%98%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%95+%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B9%80%E0%B8%94%E0%B8%8A+%F0%9F%91%8B;Full-Stack+Developer+%26+IT+Student+%F0%9F%92%BB;%E0%B8%A2%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B5%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%9A+%E2%9D%84%EF%B8%8F" alt="Typing SVG" />
+  </a>
+</div>
 
-- 🔭 ปัจจุบันกำลังพัฒนาโปรเจกต์: โปรเจคใหม่  
-- 🌱 กำลังเรียนรู้เพิ่มเติมเกี่ยวกับ: การเรียนเพิ่มเติมในปริญญาตรี สาขาเทคโนโลยีสารสนเทศ
-- 💬 สามารถพูดคุยหรือปรึกษาเรื่อง: การจัดการระบบภายใน
-- 📫 ช่องทางติดต่อ: Thanawa.g@ku.th
+---
+
+### 👨‍💻 เกี่ยวกับผม (About Me)
+
+สวัสดีครับ ผม **นายธนวัต กิจเดช** เป็น **Full-Stack Developer** ที่สนใจด้านการพัฒนาเว็บแอปพลิเคชันและซอฟต์แวร์[cite: 1]
+
+- 🔭 **ปัจจุบันกำลังพัฒนาโปรเจกต์:** โปรเจกต์ใหม่[cite: 1]
+- 🌱 **กำลังเรียนรู้เพิ่มเติมเกี่ยวกับ:** ปริญญาตรี สาขาเทคโนโลยีสารสนเทศ[cite: 1]
+- 💬 **สามารถพูดคุยหรือปรึกษาเรื่อง:** การจัดการระบบภายใน[cite: 1]
+- 📫 **ช่องทางติดต่อ:** [Thanawa.g@ku.th](mailto:Thanawa.g@ku.th)[cite: 1]
 
 ---
 
@@ -29,32 +44,9 @@
 
 ---
 
-### 🚀 ผลงานเด่น (Featured Projects)
-
-- **[ชื่อโปรเจกต์ที่ 1](ใส่ลิงก์-Repository-โปรเจกต์)** — คำอธิบายสั้นๆ ว่าโปรเจกต์นี้ทำอะไรได้บ้าง และใช้เทคโนโลยีอะไรสร้าง
-- **[ชื่อโปรเจกต์ที่ 2](ใส่ลิงก์-Repository-โปรเจกต์)** — คำอธิบายสั้นๆ ว่าโปรเจกต์นี้แก้ปัญหาอะไร หรือมีจุดเด่นตรงไหน
-
----
-
 ### 📊 สถิติบน GitHub (GitHub Stats)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thanawatg-a11y&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanawatg-a11y&layout=compact&langs_count=6&theme=tokyonight"/>[cite: 4]
 </div>
-
----
-
-### 🌐 ช่องทางติดตามอื่นๆ (Connect with Me)
-
-<p align="left">
-  <a href="ใส่ลิงก์-LinkedIn-ของคุณ" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="ใส่ลิงก์-Portfolio-หรือเว็บไซต์ของคุณ" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="mailto:ใส่อีเมลของคุณ">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
