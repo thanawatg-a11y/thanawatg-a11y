@@ -1,19 +1,21 @@
-<!-- 1. รูปแบนเนอร์บนสุด (Adventure Time Pixel Art) -->
+<!-- 1. รูปแบนเนอร์บนสุด -->
 <div align="center">
   <img src="banner.jpg" width="100%" alt="Banner" />
 </div>
 
 <br/>
 
+<!-- 2. ส่วนแนะนำตัว (ซ้ายข้อความ / ขวารูปต้นไม้) -->
+<img align="right" width="230" src="tree.png" alt="Pixel Tree" />
 
-### 🌿 Hi 
+### 🌿 เกี่ยวกับผม (About Me)
 
-สวัสดีครับ ผม ธนวัต กิจเดช (Thanawat Kicdech) นิสิตสาขาเทคโนโลยีสารสนเทศ และ **Full-Stack Developer** ที่มีความหลงใหลในการออกแบบและพัฒนาเว็บแอปพลิเคชันแบบครบวงจร ตั้งแต่ส่วนติดต่อผู้ใช้ไปจนถึงระบบหลังบ้านและการจัดการฐานข้อมูล[cite: 1]
+สวัสดีครับ ผม **ธนวัต กิจเดช (Thanawat Kicdech)** นิสิตสาขาเทคโนโลยีสารสนเทศ และ **Full-Stack Developer** ที่มีความหลงใหลในการออกแบบและพัฒนาเว็บแอปพลิเคชันแบบครบวงจร ตั้งแต่ส่วนติดต่อผู้ใช้ไปจนถึงระบบหลังบ้านและการจัดการฐานข้อมูล
 
-- 🌱 **Current Focus:** กำลังออกแบบและพัฒนาซอฟต์แวร์โปรเจกต์ใหม่เพื่อยกระดับการทำงาน[cite: 1]
-- 🎓 **Education:** กำลังศึกษาต่อระดับปริญญาตรี สาขาเทคโนโลยีสารสนเทศ (Information Technology)[cite: 1]                 <img align="right" width="230" src="tree.png" alt="Pixel Tree" />
-- 💡 **Expertise & Interest:** การพัฒนาระบบเว็บ (Full-Stack Web Development) และการออกแบบระบบจัดการภายในองค์กร[cite: 1]
-- 📫 **Get in Touch:** [Thanawa.g@ku.th](mailto:Thanawa.g@ku.th)[cite: 1]
+- 🌱 **Current Focus:** กำลังออกแบบและพัฒนาซอฟต์แวร์โปรเจกต์ใหม่เพื่อยกระดับการทำงาน
+- 🎓 **Education:** กำลังศึกษาต่อระดับปริญญาตรี สาขาเทคโนโลยีสารสนเทศ (Information Technology)
+- 💡 **Expertise & Interest:** การพัฒนาระบบเว็บ (Full-Stack Web Development) และการออกแบบระบบจัดการภายในองค์กร
+- 📫 **Get in Touch:** [Thanawa.g@ku.th](mailto:Thanawa.g@ku.th)
 
 <br clear="right"/>
 
@@ -43,6 +45,6 @@
 ### 📊 สถิติบน GitHub (GitHub Analytics)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thanawatg-a11y&show_icons=true&theme=default&include_all_commits=true&count_private=true&title_color=15803D&icon_color=16A34A"/>[cite: 4]
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanawatg-a11y&layout=compact&langs_count=6&theme=default&title_color=15803D"/>[cite: 4]
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thanawatg-a11y&show_icons=true&theme=default&include_all_commits=true&count_private=true&title_color=15803D&icon_color=16A34A"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanawatg-a11y&layout=compact&langs_count=6&theme=default&title_color=15803D"/>
 </div>
